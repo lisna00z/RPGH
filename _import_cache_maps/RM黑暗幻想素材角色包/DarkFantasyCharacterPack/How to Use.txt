@@ -1,0 +1,35 @@
+//=============================================================================
+// Åú How To Use
+// ----------------------------------------------------------------------------
+
+Please make sure to make a backup of your project.
+
+Åú Windows:
+Å° For characters and faces, copy the following folders:
+	- Characters
+	- Faces
+And paste them in your project's img folder.
+
+Åú Mac:
+Å° Copy the files inside the folders:
+	- Characters
+	- Faces folder
+And paste them in your project's respective img folders. Do not copy the folder
+itself or else it will replace the folders instead of appending to it.
+
+// Åú Using SV battler graphics
+// ----------------------------------------------------------------------------
+Å° Overwrite the following files from your project's img/system folder with the 
+files found in this DLC.
+
+	- Weapons 1.png
+	- Weapons 2.png
+	- Weapons 3.png
+
+Å° Overwrite the following files from your project's js folder with the file found
+in this DLC.
+
+	- rpg_sprites.js
+
+There might be a chance that it will affect your custom scripts. Please make sure 
+to create a backup.
